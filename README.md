@@ -7,7 +7,5 @@ neighbours, frequency etc. This technique can be used to locate objects in the p
 draw boundaries, extracting meaningful interpretation etc and is being widely used in
 medical imaging, self driving cars, satellite image mapping etc.
 
-![Input](Input/jump.png) 
-
-![3 segemnt output](Output/3_segments/jump/13.png)
+![Input](Input/jump.png)
 ![5 segemnt output](Output/5_segments/jump/18.png)
